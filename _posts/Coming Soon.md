@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Coming Soon
+permalink: /blog/
 ---
 
 Website Currently Under Construction. 
