@@ -4,12 +4,6 @@ title: About David Azenda
 permalink: /about/
 ---
 
-Some information about you!
+Coming Soon
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[david.azenda@usask.ca](mailto:email@domain.com)
